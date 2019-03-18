@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.palmatolay.micronaut
+---
+testFramework: spek
+sourceLanguage: kotlin
